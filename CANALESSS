@@ -27,7 +27,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
-http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
 http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/2/items/telemundo_202009/Telemundo.png"group-title="ENTRETENIMIENTO", Telemundo
@@ -160,7 +160,7 @@ http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/20/items/teen-nick/TeenNick.png"group-title="NIÑOS", Teen Nick
 http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
-http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/33/items/nick-music/NickMusic.png"group-title="NIÑOS", Nick Music
 http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
